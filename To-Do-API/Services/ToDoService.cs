@@ -4,10 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using To_Do_API.Data;
 using To_Do_API.Data.DBContext;
 using To_Do_API.Data.Models;
+using To_Do_API.Services.Interfaces;
 
 namespace To_Do_API.Services
 {
-    public class ToDoService
+    public class ToDoService : IToDoService
     {
         private readonly ToDoContext _context;
         private readonly WeatherService _weatherService;

@@ -2,10 +2,12 @@
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
+using To_Do_API.Services.Interfaces;
 
 namespace To_Do_API.Services
 {
-    public class WeatherService
+    public class WeatherService : IWeatherService
+
     {
         private readonly HttpClient _httpClient;
 

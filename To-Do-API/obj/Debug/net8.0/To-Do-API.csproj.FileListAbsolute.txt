@@ -141,3 +141,6 @@ D:\Projects\To-Do-API\To-Do-API\obj\Debug\net8.0\refint\To-Do-API.dll
 D:\Projects\To-Do-API\To-Do-API\obj\Debug\net8.0\To-Do-API.pdb
 D:\Projects\To-Do-API\To-Do-API\obj\Debug\net8.0\To-Do-API.genruntimeconfig.cache
 D:\Projects\To-Do-API\To-Do-API\obj\Debug\net8.0\ref\To-Do-API.dll
+D:\Projects\To-Do-API\To-Do-API\bin\Debug\net8.0\Castle.Core.dll
+D:\Projects\To-Do-API\To-Do-API\bin\Debug\net8.0\Moq.dll
+D:\Projects\To-Do-API\To-Do-API\obj\Debug\net8.0\To-Do-API.sourcelink.json

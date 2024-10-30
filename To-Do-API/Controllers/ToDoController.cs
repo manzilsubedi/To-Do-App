@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 using To_Do_API.Data.Models;
 using To_Do_API.Services;
+using To_Do_API.Services.Interfaces;
 
 namespace To_Do_API.Controllers
 {
@@ -10,10 +11,10 @@ namespace To_Do_API.Controllers
     [ApiController]
     public class ToDoController : ControllerBase
     {
-        private readonly ToDoService _toDoService;
-        private readonly WeatherService _weatherService;
+        private readonly IToDoService _toDoService;
+        private readonly IWeatherService _weatherService;
 
-        public ToDoController(ToDoService toDoService, WeatherService weatherService)
+        public ToDoController(IToDoService toDoService, IWeatherService weatherService)
         {
             _toDoService = toDoService;
             _weatherService = weatherService;

@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\To-Do-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2E518F-C24F-4FD5-A4B9-15BBF710C6BE}|UnitTesting\\UnitTesting.csproj|d:\\projects\\to-do-api\\unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2E518F-C24F-4FD5-A4B9-15BBF710C6BE}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\services\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\services\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\services\\interfaces\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\services\\interfaces\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\data\\dbcontext\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\data\\dbcontext\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\services\\fetchtodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\services\\fetchtodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\data\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\data\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\controllers\\fetchtodocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\controllers\\fetchtodocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\migrations\\20241029223112_initial-changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\migrations\\20241029223112_initial-changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\to-do-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\to-do-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\migrations\\20241029233942_madechangesoncategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\migrations\\20241029233942_madechangesoncategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|d:\\projects\\to-do-api\\to-do-api\\migrations\\20241029215606_initial-database-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757F7543-24E9-4AEA-BC23-6B5B899FB121}|To-Do-API\\To-Do-API.csproj|solutionrelative:to-do-api\\migrations\\20241029215606_initial-database-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Services\\Interfaces\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Services\\Interfaces\\IWeatherService.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Services\\Interfaces\\IWeatherService.cs",
+              "RelativeToolTip": "To-Do-API\\Services\\Interfaces\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:29:48.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Services\\Interfaces\\IToDoService.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Services\\Interfaces\\IToDoService.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Services\\Interfaces\\IToDoService.cs",
+              "RelativeToolTip": "To-Do-API\\Services\\Interfaces\\IToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:23:57.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\UnitTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\UnitTest1.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\UnitTesting\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTesting\\UnitTest1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwCoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:49:35.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241029233942_madechangesoncategories.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Migrations\\20241029233942_madechangesoncategories.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Migrations\\20241029233942_madechangesoncategories.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Migrations\\20241029233942_madechangesoncategories.cs",
+              "RelativeToolTip": "To-Do-API\\Migrations\\20241029233942_madechangesoncategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:39:42.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Services\\WeatherService.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Services\\WeatherService.cs",
+              "RelativeToolTip": "To-Do-API\\Services\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:42:44.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\WeatherForecast.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\WeatherForecast.cs",
+              "RelativeToolTip": "To-Do-API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:40:41.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241029223112_initial-changes.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Migrations\\20241029223112_initial-changes.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Migrations\\20241029223112_initial-changes.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Migrations\\20241029223112_initial-changes.cs",
+              "RelativeToolTip": "To-Do-API\\Migrations\\20241029223112_initial-changes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:31:12.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FetchToDoController.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Controllers\\FetchToDoController.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Controllers\\FetchToDoController.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Controllers\\FetchToDoController.cs",
+              "RelativeToolTip": "To-Do-API\\Controllers\\FetchToDoController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:07:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241029215606_initial-database-create.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Migrations\\20241029215606_initial-database-create.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Migrations\\20241029215606_initial-database-create.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Migrations\\20241029215606_initial-database-create.cs",
+              "RelativeToolTip": "To-Do-API\\Migrations\\20241029215606_initial-database-create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:56:06.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "To-Do-API.http",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\To-Do-API.http",
+              "RelativeDocumentMoniker": "To-Do-API\\To-Do-API.http",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\To-Do-API.http",
+              "RelativeToolTip": "To-Do-API\\To-Do-API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-29T21:55:11.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Services\\ToDoService.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Services\\ToDoService.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Services\\ToDoService.cs",
+              "RelativeToolTip": "To-Do-API\\Services\\ToDoService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwFAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:54:14.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Controllers\\ToDoController.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "To-Do-API\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:52:42.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FetchToDoService.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Services\\FetchToDoService.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Services\\FetchToDoService.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Services\\FetchToDoService.cs",
+              "RelativeToolTip": "To-Do-API\\Services\\FetchToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:44:46.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Data\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Data\\Models\\Category.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Data\\Models\\Category.cs",
+              "RelativeToolTip": "To-Do-API\\Data\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:43:12.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Data\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Data\\Models\\ToDo.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Data\\Models\\ToDo.cs",
+              "RelativeToolTip": "To-Do-API\\Data\\Models\\ToDo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:42:50.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\appsettings.json",
+              "RelativeDocumentMoniker": "To-Do-API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\appsettings.json",
+              "RelativeToolTip": "To-Do-API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T21:39:53.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoContext.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Data\\DBContext\\ToDoContext.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Data\\DBContext\\ToDoContext.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Data\\DBContext\\ToDoContext.cs",
+              "RelativeToolTip": "To-Do-API\\Data\\DBContext\\ToDoContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:37:29.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\To-Do-API\\To-Do-API\\Program.cs",
+              "RelativeDocumentMoniker": "To-Do-API\\Program.cs",
+              "ToolTip": "D:\\Projects\\To-Do-API\\To-Do-API\\Program.cs",
+              "RelativeToolTip": "To-Do-API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:35:51.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
