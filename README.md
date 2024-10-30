@@ -33,7 +33,7 @@ This project is a C# REST API for managing a To-Do list, including integration w
 ## Installation
 
 ### Prerequisites
-- [.NET 7.0 SDK](https://dotnet.microsoft.com/download)
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### Setup
